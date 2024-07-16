@@ -1,0 +1,193 @@
+[
+  {
+    "name": "Cotton Saree",
+    "category": "Clothing",
+    "img": "/public/images/1eeac74a-ecd1-4752-be75-86e454f63d86-300x400.webp",
+    "id": "P001",
+    "seller": "Traditional Wear",
+    "price": 329,
+    "shipping": 10,
+    "ratings": 4.5,
+    "quantity": 0
+  },
+  {
+    "name": "Black Printed And Embroidered Viscose-Cotton Shalwar Kameez",
+    "category": "Clothing",
+    "img": "/public/images/1420000177268.webp",
+    "id": "P013",
+    "seller": "Arong",
+    "price": 199,
+    "shipping": 10,
+    "ratings": 4.3,
+    "quantity": 0
+  },
+  {
+    "name": "Ottoman_Polo_Shirt",
+    "category": "Clothing",
+    "img": "/public/images/Ottoman_Polo_Shirt_Green_IX4306_01_laydown.avif",
+    "id": "P006",
+    "seller": "Addidas",
+    "price": 219,
+    "shipping": 10,
+    "ratings": 4.3,
+    "quantity": 0
+  },
+  {
+    "name": "Grid_Print_Polo_Shirt",
+    "category": "Clothing",
+    "img": "/public/images/Ultimate365_Power_Grid_Print_Polo_Shirt_Blue_IX2029_01_laydown.avif",
+    "id": "P007",
+    "seller": "Audio Hub",
+    "price": 189,
+    "shipping": 10,
+    "ratings": 4.5,
+    "quantity": 0
+  },
+  {
+    "name": "Casual Sneakers",
+    "category": "Footwear",
+    "img": "public/images/Racer_TR23_Shoes_White_IH2324_01_standard.jpg",
+    "id": "P002",
+    "seller": "Addidas",
+    "price": 159,
+    "shipping": 10,
+    "ratings": 4.7,
+    "quantity": 0
+  },
+  {
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "img": "./images/Dropset_3_GFX_Shoes_Grey_IH8293_01_standard.avif",
+    "id": "P009",
+    "seller": "Addidas",
+    "price": 139,
+    "shipping": 10,
+    "ratings": 4.5,
+    "quantity": 0
+  },
+  {
+    "name": "Leather Sofa",
+    "category": "Furniture",
+    "img": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
+    "id": "P003",
+    "seller": "Comfort Living",
+    "price": 499,
+    "shipping": 10,
+    "ratings": 4.8,
+    "quantity": 0
+  },
+
+  {
+    "name": "Wooden Coffee Table",
+    "category": "Furniture",
+    "img": "https://images.pexels.com/photos/276534/pexels-photo-276534.jpeg",
+    "id": "P010",
+    "seller": "Home Decor",
+    "price": 149,
+    "shipping": 10,
+    "ratings": 4.7,
+    "quantity": 0
+  },
+  {
+    "name": "boAt Airdopes 402 True Wireless Earbuds",
+    "category": "Electronics",
+    "img": "/public/images/airdopes-402-01-500x500.webp",
+    "id": "P005",
+    "seller": "BoAt",
+    "price": 169,
+    "shipping": 10,
+    "ratings": 4.6,
+    "quantity": 0
+  },
+
+  {
+    "name": "Jabra Elite 2 Bluetooth Dual Earbuds",
+    "category": "Electronics",
+    "img": "/public/images/elite-2-01-500x500.jpg",
+    "id": "P008",
+    "seller": "Jabra",
+    "price": 110,
+    "shipping": 10,
+    "ratings": 4.2,
+    "quantity": 0
+  },
+
+  {
+    "name": "Victory_Bucket_Hat",
+    "category": "Clothing",
+    "img": "/public/images/Victory_Bucket_Hat_Beige_FZ6839_01_standard.avif",
+    "id": "P011",
+    "seller": "Addidas",
+    "price": 79,
+    "shipping": 10,
+    "ratings": 4.4,
+    "quantity": 0
+  },
+  {
+    "name": "Logo_Snapback_Hat",
+    "category": "Clothing",
+    "img": "/public/images/Logo_Snapback_Hat_White_GC3392_01_standard.avif",
+    "id": "P012",
+    "seller": "Addidas",
+    "price": 59,
+    "shipping": 10,
+    "ratings": 4.6,
+    "quantity": 0
+  },
+
+  {
+    "name": "steel-straw-metal-bottle",
+    "category": "Electronics",
+    "img": "/public/images/steel-straw-metal-bottle-600-ml.avif",
+    "id": "P014",
+    "seller": "Addidas",
+    "price": 30,
+    "shipping": 10,
+    "ratings": 4.5,
+    "quantity": 0
+  },
+  {
+    "name": "Steel_Bottle_600_ML_Black",
+    "category": "Water bottle",
+    "img": "/public/images/Steel_Bottle_600_ML_Black_GC4244_01_standard.avif",
+    "id": "P015",
+    "seller": "Addidas",
+    "price": 39,
+    "shipping": 10,
+    "ratings": 4.6,
+    "quantity": 0
+  },
+  {
+    "name": "32 Inch FHD 165Hz Curved Gaming Monitor",
+    "category": "Electronics",
+    "img": "/public/images/vg328h1b-1-500x500.jpg",
+    "id": "P016",
+    "seller": "ASUS",
+    "price": 499,
+    "shipping": 10,
+    "ratings": 4.8,
+    "quantity": 0
+  },
+  {
+    "name": "ODYSSEY G5 LS27CG550EWX 27 165Hz QHD Curved Gaming Monitor",
+    "category": "Electronics",
+    "img": "/public/images/odyssey-g5-01-500x500.webp",
+    "id": "P017",
+    "seller": "Samsung",
+    "price": 644,
+    "shipping": 10,
+    "ratings": 4.3,
+    "quantity": 0
+  },
+  {
+    "name": "White sofa with Tea table",
+    "category": "Furniture",
+    "img": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+    "id": "P018",
+    "seller": "Warm Wear",
+    "price": 279,
+    "shipping": 10,
+    "ratings": 4.5,
+    "quantity": 0
+  }
+]
